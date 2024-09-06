@@ -1,0 +1,10 @@
+F:\C# and  .NET\Checklist form\Checklist form\obj\Debug\Checklist form.csproj.AssemblyReference.cache
+F:\C# and  .NET\Checklist form\Checklist form\obj\Debug\Checklist_form.ToDoList.resources
+F:\C# and  .NET\Checklist form\Checklist form\obj\Debug\Checklist_form.Properties.Resources.resources
+F:\C# and  .NET\Checklist form\Checklist form\obj\Debug\Checklist form.csproj.GenerateResource.cache
+F:\C# and  .NET\Checklist form\Checklist form\obj\Debug\Checklist form.csproj.CoreCompileInputs.cache
+F:\C# and  .NET\Checklist form\Checklist form\bin\Debug\Checklist form.exe.config
+F:\C# and  .NET\Checklist form\Checklist form\bin\Debug\Checklist form.exe
+F:\C# and  .NET\Checklist form\Checklist form\bin\Debug\Checklist form.pdb
+F:\C# and  .NET\Checklist form\Checklist form\obj\Debug\Checklist form.exe
+F:\C# and  .NET\Checklist form\Checklist form\obj\Debug\Checklist form.pdb
